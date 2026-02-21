@@ -39,3 +39,6 @@ JDBC URL：jdbc:h2:mem:testdb
 User Name：sa
 
 クラスInterviewは面接情報をデータベースに保存するための設計図
+リポジトリー作り方⇒対象パッケージから新規作成→Interfaceを選択
+JpaRepository⇒データベース操作を自動で用意してくれるインターフェース
+Bean→Springが管理しているオブジェクト
