@@ -33,3 +33,9 @@ NOT NULL＝空欄NG
 フレームワーク；Spring Boot⇒環境構築から始める
 DB；SQLite
 開発環境；Eclipse⇒環境構築から始める
+
+Eclipseブラウザ：http://localhost:8080/h2-console
+JDBC URL：jdbc:h2:mem:testdb
+User Name：sa
+
+クラスInterviewは面接情報をデータベースに保存するための設計図
